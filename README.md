@@ -1,4 +1,4 @@
-# Python Virtual Environment Setup Script Documentation
+# Python Virtual Environment Setup
 
 ## Overview
 The Python Virtual Environment Setup Script is a comprehensive bash utility designed to streamline the creation and management of Python virtual environments. It automates several common tasks including environment creation, gitignore configuration, dependency management, and provides an interactive interface for customizing the setup process.
