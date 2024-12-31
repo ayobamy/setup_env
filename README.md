@@ -119,7 +119,7 @@ deactivate
 1. **Permission Denied**
    - Solution: Ensure script has executable permissions
    ```bash
-   chmod +x setup_venv.sh
+   chmod +x setup.sh
    ```
 
 2. **Python Not Found**
