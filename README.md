@@ -48,7 +48,7 @@ The script provides several key features:
 ### Basic Usage
 Run the script from your terminal:
 ```bash
-./setup_venv.sh
+./setup.sh
 ```
 
 ### Interactive Prompts
