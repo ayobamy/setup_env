@@ -48,7 +48,7 @@ The script provides several key features:
 ### Basic Usage
 Run the script from your terminal:
 ```bash
-./setup_venv.sh
+./setup.sh
 ```
 
 ### Interactive Prompts
@@ -119,7 +119,7 @@ deactivate
 1. **Permission Denied**
    - Solution: Ensure script has executable permissions
    ```bash
-   chmod +x setup_venv.sh
+   chmod +x setup.sh
    ```
 
 2. **Python Not Found**
