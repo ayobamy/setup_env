@@ -201,7 +201,7 @@ If you have any questions, feedback, or need assistance, please feel free to con
 
 **Twitter:** https://x.com/ahmed_olawale1
 
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 
 This documentation is maintained as part of the Virtual Environment Setup Script project.
 For updates and more information, please refer to the project repository.
